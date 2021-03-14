@@ -5,7 +5,7 @@ Alguns conceitos que caem bastante em diversos contextos:
 ### [CQRS](https://docs.aws.amazon.com/whitepapers/latest/modern-application-development-on-aws/command-query-responsibility-segregation.html)
 Command Query Responsability Segregation, significa separar a responsabilidade de escrita e leitura de seus dados.
 
- ### [Upfront Cost]([https://www.masterclass.com/articles/upfront-cost-definition#what-is-an-upfront-cost](https://www.masterclass.com/articles/upfront-cost-definition#what-is-an-upfront-cost))
+ ### [Upfront Cost](https://www.masterclass.com/articles/upfront-cost-definition#what-is-an-upfront-cost)
  Quantia inicial de dinheiro investido em algo.
 
  ### [Horizontal (out) / Vertical (up) Scaling](https://www.section.io/blog/scaling-horizontally-vs-vertically/)
