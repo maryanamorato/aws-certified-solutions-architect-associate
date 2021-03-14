@@ -5,7 +5,7 @@
 Taxa em que os dados são transmitidos com êxito.
 
 ### [Database Migration Service (DMS)](https://aws.amazon.com/dms/faqs/)
-Migração.
+Basicamente migração de bancos de dados.
 
 ### [RDS](https://aws.amazon.com/rds/faqs/)
 Gerenciamento que facilita/automatiza tarefas de bancos relacionais (MySQL, SQL Server, MariaDB, Oracle, Postgres). Pode ser usado no on-premise com VMware ou Outposts, mas logs e backup ficam na nuvem. 
