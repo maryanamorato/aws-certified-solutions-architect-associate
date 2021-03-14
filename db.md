@@ -1,7 +1,7 @@
 
 # Database
 
-### [Throughput]([https://www.intel.com.br/content/www/br/pt/support/articles/000026190/wireless.html](https://www.intel.com.br/content/www/br/pt/support/articles/000026190/wireless.html))
+### [Throughput](https://www.intel.com.br/content/www/br/pt/support/articles/000026190/wireless.html)
 Taxa em que os dados são transmitidos com êxito.
 
 ### [Database Migration Service (DMS)](https://aws.amazon.com/dms/faqs/)
